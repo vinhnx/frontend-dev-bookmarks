@@ -7,6 +7,8 @@
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
     + [Web Development Teaching Materials](http://www.teaching-materials.org/)
     + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
+    + [Codeacademy](http://codeacademy.com) Good source for beginners
+    + [Codeschool](http://www.codeschool.com/) - Check out tryruby, trygit and tryjquery courses. Also have many useful courses.
 + Architecture
     + [BEM](http://bem.info/method/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
@@ -36,6 +38,7 @@
         + [GruntStart](https://github.com/tsvensen/gruntstart): A Grunt-enabled head-start with the H5BP, jQuery, Modernizr, and Respond. The building blocks to quickly get started with Grunt to create an optimized website.
         + [A beginner’s guide to Grunt](http://blog.mattbailey.co/post/45519082789/a-beginners-guide-to-grunt)
         + [Grunt - Synchronised Testing Between Browsers/Devices](http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices)
+    + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + Front-end Process - Flat Builds and Automation
         + [Introduction](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)
         + [Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)
@@ -49,13 +52,14 @@
     + [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI): Make lossless optimisation of images part of your automated build process.
     + [jpegoptim](https://github.com/tjko/jpegoptim): Utility to optimize/compress JPEG files.
     + [Pngcrush](http://pmt.sourceforge.net/pngcrush/) is an optimizer for PNG (Portable Network Graphics) files.
+    + [Glue](https://github.com/jorgebastida/glue) is a simple command line tool to generate CSS sprites.
     + [Roots](http://roots.cx/) A light, super fast, and intuitive build system meant for rapid advanced front end development.
     + [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
-    + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + [Mimosa](http://mimosajs.com) is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
+    + [Wraith](https://github.com/BBC-News/wraith) is a screenshot comparison tool.
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
@@ -64,9 +68,12 @@
     + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
     + [Web Design Weekly](http://web-design-weekly.com/)
     + [Web Development Reading List](http://wdrl.helloanselm.com/)
+    + [Webdev Newsletter](http://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html)
     + [Open Web Platform Daily Digest](http://webplatformdaily.org)
     + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
     + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
+    + [Web Tools Weekly](http://webtoolsweekly.com/)
+    + [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
 + Programming & Markup Languages
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
@@ -125,6 +132,7 @@
         + [Less](http://lesscss.org/) extends CSS with dynamic behavior such as variables, mixins, operations and functions.
         + [Roole](http://roole.org/) is a language that compiles to CSS.
         + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
+        + [TypeScript](http://www.typescriptlang.org/) is a typed superset of JavaScript that compiles to plain JavaScript (by Microsoft)
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
@@ -150,6 +158,7 @@
         + [jQuery](http://jquery.com/)
             + [Github](https://github.com/jquery/jquery)
             + [jQuery Wiki Page "Plugins/Authoring"](http://docs.jquery.com/Plugins/Authoring)
+            + [30 Days to Learn jQuery](http://freecourses.tutsplus.com/30-days-to-learn-jquery/index.html) - A free Tut+ Premium course
             + [jQuery Plugin Development Boilerplate](http://www.websanova.com/tutorials/jquery/jquery-plugin-development-boilerplate)
             + [The Ultimate Guide to Writing jQuery Plugins](http://www.websanova.com/tutorials/jquery/the-ultimate-guide-to-writing-jquery-plugins)
             + [Book: jQuery Fundamentals](http://jqfundamentals.com/)
@@ -173,6 +182,8 @@
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
         + [Zepto.js](http://zeptojs.com/): A minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.
             + [Github](https://github.com/madrobby/zepto)
+        + [Minified.js](http://minifiedjs.com/): Minified.js is a client-side JavaScript library, comparable to jQuery and MooTools in scope. Its features include DOM manipulation, animation, events, cookies and HTTP requests.
+            + [Github](https://github.com/timjansen/minified.js/)
         + [React](http://facebook.github.io/react/) by Facebook
             + [Github](https://github.com/facebook/react)
         + [Qooxdoo](http://qooxdoo.org/) is a universal JavaScript framework for building rich, interactive application, native-like apps for mobile devices, light-weight single-page oriented web applications or even applications to run outside the browser.
@@ -182,13 +193,14 @@
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
         + [Sammy.js](http://sammyjs.org/) is a tiny JavaScript framework developed to ease the pain and provide a basic structure for developing JavaScript applications.
         + [Ember.js](http://emberjs.com/): A framework for creating ambitious web applications.
-
+            + [Let’s Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/) - A free Tut+ Premium course
         + [Maria](https://github.com/petermichaux/maria): The MVC framework for JavaScript applications. The real MVC. The Smalltalk MVC. The Gang of Four MVC.
         + [Terrific Composer](http://terrifically.org/composer/) is a Frontend Development Framework specifically designed for building deluxe frontends based on the [Terrific concept](http://terrifically.org/)
         + [Rivets.js](http://rivetsjs.com/): Lightweight and powerful data binding + templating solution for building modern web applications.
         + [Synapse](http://bruth.github.com/synapse/docs/): Data Binding For The Rest Of Us
         + [A Comprehensive Collection Of Javascript Application Frameworks](http://www.designyourway.net/blog/resources/a-comprehensive-collection-of-javascript-application-frameworks-28-examples/)
         + [JavaScript Data Binding Frameworks](http://weblogs.asp.net/dwahlin/archive/2012/07/08/javascript-data-binding-frameworks.aspx)
+        + [Underscore.js](http://underscorejs.org/)
     + CSS
         + [A collection of best frameworks](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0)
         + Twitter Bootstrap
@@ -279,15 +291,17 @@
         + [Axis](http://roots.cx/axis/) - clean Stylus-based foundation to build your styles upon
         + [Jeet](http://jeetframework.com/) next gen responsive grid
         + [Susy](http://susy.oddbird.net/) - Responsive grids for Compass
+        + [Pure](http://purecss.io/) - Minimal, flat, responsive CSS modules.
+        + [Topcoat](https://github.com/topcoat/topcoat) is a CSS library evolved from the Adobe design language developed for Brackets, Edge Reflow, and feedback from the PhoneGap app developer community.
 + Cross Browser
-    + [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
+    + [Normalize.css](http://necolas.github.io/normalize.css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
     + [Viewport Component](https://github.com/pazguille/viewport)
     + [Can I Use](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
     + [HTML5 Please](http://html5please.com/) - Collective recommendations for polyfills and implementation of HTML5 and CSS3 features.
 + Cross Device
     + Responsive
-		+ [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
+        + [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
         + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
         + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
             + [Responsive Navigation Patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
@@ -315,6 +329,7 @@
             + [Picturefill](https://github.com/scottjehl/picturefill)
             + [Clown Car](https://github.com/estelle/clowncar) Technique for Responsive Images
             + [imgLiquid](https://github.com/karacas/imgLiquid) jQuery plugin to resize images to fit in a container.
+            + [lazy load images](http://ezyz.github.io/Lazy-Load-Images-without-jQuery/) lazy load images with out jquery.
         + Text
             + [FitText](http://fittextjs.com/): A jQuery plugin for inflating web type
             + [Out Of Words!](http://starburst1977.github.io/out-of-words/): The responsive typography framework behind Words App
@@ -421,14 +436,18 @@
     + [TheToolbox](http://www.thetoolbox.cc/)
     + [colourco](http://colourco.de/)
     + [Color Scheme Designer](http://colorschemedesigner.com): find resonate colors for a great design.
+    + [Adobe Kuler](http://kuler.adobe.com): create and share color schemes.
     + [HTML Entity Character Lookup](http://leftlogic.com/projects/entity-lookup)
     + [SpritePad](http://spritepad.wearekiss.com/)
     + [Responsinator](http://www.responsinator.com/)
     + [HTML Shell](http://htmlshell.com/)
     + [Form Builder](http://livetools.uiparade.com/form-builder.html)
     + [Zen BG](http://mudcu.be/bg/)
+    + [What Font Is](http://www.whatfontis.com/) identifies fonts from an image.
     + [Prepros](http://alphapixels.com/prepros/)
+    + [Browser Shots](http://browsershots.org/) tests compatibility in almost every browser.
     + [CSS3 Media Query Builder](http://arcsec.ca/media-query-builder/)
+    + [CSSArrowPlease](http://cssarrowplease.com) Simple tooltip arrows with CSS
     + [jsFiddle](http://jsfiddle.net)
     + [codepen](http://codepen.io/) is an HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write.
     + [site44](https://www.site44.com/) turns Dropbox folders to websites
@@ -551,6 +570,7 @@
     + [Datavisualization.ch](http://selection.datavisualization.ch/)
     + [jQuery.Gantt](http://taitems.github.com/jQuery.Gantt/)
     + [easy pie chart](http://rendro.github.com/easy-pie-chart/)
+    + [JointJS JavaScript Diagramming Library](http://jointjs.com/)
     + [Gauge.js](http://bernii.github.com/gauge.js/)
     + [Google Chart Tools](https://developers.google.com/chart/)
     + [Piecon](http://lipka.github.com/piecon/)
@@ -571,6 +591,7 @@
     + [three.js](http://threejs.org) Javascript 3D library.
     + [Highcharts](http://www.highcharts.com/): Interactive JavaScript Charts for your web projects.
     + [Flot](http://www.flotcharts.org/): Attractive JavaScript plotting for jQuery
+    + [Chart.js](http://www.chartjs.org/): Easy, object oriented client side graphs for designers and developers
 + Validation & Forms
     + [Mention.js](https://github.com/jakiestfu/Mention.js) Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
     + [ALAJAX](http://www.alajax.com/)
@@ -609,7 +630,14 @@
             + [Feature Introduction](https://github.com/cucumber/cucumber/wiki/Feature-Introduction)
             + [Given when then](https://github.com/cucumber/cucumber/wiki/Given-When-Then)
     + [Jasmine](http://pivotal.github.io/jasmine/) - JavaScript BDD testing framework with Rspec-like syntax
+    + [QUnit](http://qunitjs.com/) - JavaScript unit testing framework
     + [PhantomCSS](https://github.com/Huddle/PhantomCSS) - for automating visual regression testing of website styling to support refactoring of CSS
+    + [Karma](http://karma-runner.github.io/) - Spectacular Test Runner for JavaScript
+    + [Chai Assertion Library](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+    + [Sinon.JS](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
+    + [sinon-chai](https://github.com/domenic/sinon-chai) - Extends Chai with assertions for the Sinon.JS mocking framework.
+    + [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit, scriptable with a JavaScript API
+    + [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers that runs on Gecko
 + Template Engines
     + [ICanHaz.js](http://icanhazjs.com/)
     + [Hogan.js](http://twitter.github.com/hogan.js/)
@@ -693,6 +721,7 @@
             + [Profiles Panel](https://developers.google.com/chrome-developer-tools/docs/profiles)
             + [JavaScript Profiling With The Chrome Developer Tools](http://coding.smashingmagazine.com/2012/06/12/javascript-profiling-chrome-developer-tools/)
             + [Introduction to Chrome Developer Tools, Part One](http://www.html5rocks.com/en/tutorials/developertools/part1/)
+            + [Revolutions 2013](http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/)
         + V8
             + [Optimizing for V8](http://floitsch.blogspot.co.uk/search/label/V8) - very technical series on the V8 engine
             + [I-want-to-optimize-my-JS-application-on-V8 checklist](http://mrale.ph/blog/2011/12/18/v8-optimization-checklist.html)
@@ -702,6 +731,7 @@
         + [Navigation Timing](http://www.html5rocks.com/en/tutorials/webperformance/basics/)
         + [Firebug Paint Events](https://addons.mozilla.org/en-US/firefox/addon/firebug-paint-events/)
         + [Locache](https://github.com/d0ugal/locache): JavaScript caching framework for client side caching in the browser using localStorage
+        + [Caliper](http://caliper.io/) is a web service for performance monitoring of your web app.
     + DOM Manipulation
         + [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
         + [Reflows & Repaints: CSS Performance making your JavaScript slow?](http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow/)
@@ -787,6 +817,7 @@
     + [JavaScript error handling anti-pattern](http://www.nczonline.net/blog/2009/04/28/javascript-error-handling-anti-pattern/)
     + [Tattletale](https://github.com/vimeo/tattletale)
 + Documentation
+    + [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
     + [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
     + [docco](http://jashkenas.github.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
     + [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
@@ -836,6 +867,7 @@
     + [XMPP using JSON](https://xmpp-ftw.jit.su/)
     + [Converse.js](http://conversejs.org/) is an open source, webchat client, that runs in the browser and can be integrated into any website.
 + Prototyping
+    + [RoughDraft.js](https://github.com/ndreckshage/roughdraft.js)
     + [Video: Style guides are the new Photoshop by Stephen Hay](http://vimeo.com/52851510) + [Slides](http://de.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012)
     + [fixie](https://github.com/ryhan/fixie)
     + [Holder.js](http://imsky.github.com/holder/)
@@ -906,3 +938,4 @@
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
     + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
+    + [Lo-Dash](http://lodash.com/) - A low-level utility library delivering consistency, customization, performance, and extra features.
